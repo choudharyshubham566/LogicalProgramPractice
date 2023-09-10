@@ -12,9 +12,9 @@ public class PalandromStringOrNumber {
 		   n=n/10;    
 		  }    
 		  if(temp==sum)    
-		   System.out.println("palindrome number ");    
+		   System.out.println("This is palindrome number ");    
 		  else    
-		   System.out.println("not palindrome");    
+		   System.out.println("This is not palindrome");    
 		
 	}
 
